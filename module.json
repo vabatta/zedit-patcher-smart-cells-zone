@@ -1,0 +1,14 @@
+{
+  "id": "PatcherSmartCellsZone",
+  "name": "Smart: Cells' zone patcher",
+  "author": "vabatta",
+  "version": "1.0.0",
+  "released": "2/27/2019",
+  "updated": "2/27/2019",
+  "description": "Experimental patcher to dynamically guess and assign encounter zones to cells.",
+  "requires": [
+    "unifiedPatchingFramework"
+  ],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
